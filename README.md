@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=180&section=header&text=Vaishnavi%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Automotive%20ECU%20Validation%20%26%20Test%20Engineer&descAlignY=62&descSize=16)
+![Header](./header.svg)
 
 </div>
 
