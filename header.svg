@@ -1,15 +1,20 @@
 <svg width="900" height="180" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#1a1f35;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0e1a;stop-opacity:1" />
+      <stop offset="40%" style="stop-color:#1a1f4e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1035;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2d1b69;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#11998e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d1b69;stop-opacity:1" />
     </linearGradient>
   </defs>
-  <rect width="900" height="180" fill="url(#grad)" rx="0"/>
-  <path d="M0,140 C150,100 300,160 450,120 C600,80 750,140 900,110 L900,180 L0,180 Z" fill="#70a5fd" opacity="0.3"/>
-  <path d="M0,155 C200,120 400,165 600,135 C750,110 850,150 900,130 L900,180 L0,180 Z" fill="#bf91f3" opacity="0.4"/>
-  <text x="450" y="75" font-family="monospace" font-size="38" font-weight="bold" fill="white" text-anchor="middle">Vaishnavi P</text>
-  <text x="450" y="115" font-family="monospace" font-size="16" fill="#c9d1d9" text-anchor="middle">Automotive ECU Validation &amp; Test Engineer</text>
-  <text x="450" y="145" font-family="monospace" font-size="13" fill="#70a5fd" text-anchor="middle">Chennai, India ● CANoe ● CAPL ● UDS ● ASPICE SYS.4/SYS.5</text>
+  <rect width="900" height="180" fill="url(#bgGrad)"/>
+  <path d="M0,130 C150,90 300,150 450,110 C600,70 750,130 900,100 L900,180 L0,180 Z" fill="url(#waveGrad)" opacity="0.5"/>
+  <path d="M0,150 C200,115 400,158 600,128 C750,105 850,148 900,128 L900,180 L0,180 Z" fill="url(#waveGrad)" opacity="0.7"/>
+  <text x="450" y="72" font-family="monospace" font-size="38" font-weight="bold" fill="white" text-anchor="middle">Vaishnavi P</text>
+  <text x="450" y="112" font-family="monospace" font-size="16" fill="#c9d1d9" text-anchor="middle">Automotive ECU Validation &amp; Test Engineer</text>
+  <text x="450" y="142" font-family="monospace" font-size="13" fill="#38bdae" text-anchor="middle">Chennai, India ● CANoe ● CAPL ● UDS ● ASPICE SYS.4/SYS.5</text>
 </svg>
