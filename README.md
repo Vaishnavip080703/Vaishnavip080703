@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaishnavi%20P&fontSize=42&fontColor=fff&fontAlignY=32&desc=Automotive%20ECU%20Validation%20%26%20Test%20Engineer&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaishnavi%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Automotive%20ECU%20Validation%20%26%20Test%20Engineer&descAlignY=62&descSize=16)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Automotive+ECU+Validation+Engineer+%F0%9F%9A%97;CANoe+%7C+CAPL+%7C+UDS+%7C+CAN+Protocol+Expert;ASPICE+SYS.4%2FSYS.5+Certified+Practitioner;Python+%2B+Robot+Framework+Test+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Automotive+ECU+Validation+Engineer+%F0%9F%9A%97;CANoe+%7C+CAPL+%7C+UDS+%7C+CAN+Protocol+Expert;ASPICE+SYS.4%2FSYS.5+Certified+Practitioner;Python+%2B+Test+Automation+"Robot+Framework")](https://git.io/typing-svg)
 
 </div>
 
